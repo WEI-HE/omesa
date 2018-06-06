@@ -67,7 +67,11 @@ The front-end provides visualization and comparison of model performance. Curren
 To test, do the following:
 
 .. code-block:: shell
-
+    $ pip install plotly
+    $ pip install nbformat
+    $ pip install lime
+    $ pip install bottle
+    $ pip install colorlover
     $ cd /dir/to/omesa/examples
     $ python3 n_gram.py
     $ cd ../front
