@@ -67,6 +67,7 @@ The front-end provides visualization and comparison of model performance. Curren
 To test, do the following:
 
 .. code-block:: shell
+   
     $ pip install plotly
     $ pip install nbformat
     $ pip install lime
